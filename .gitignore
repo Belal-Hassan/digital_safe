@@ -1,0 +1,21 @@
+# Proteus auto-generated files
+*.DAT
+*.DDB
+*.IDX
+*.LCK
+*.PXI
+*.SAV
+*.TMP
+
+# Project Backups folder
+Project Backups/
+
+# Proteus simulation cache and temporary files
+*.CACHE
+*.LOG
+*.SDF
+
+# Optional: OS generated files
+Thumbs.db
+.DS_Store
+*.swp
